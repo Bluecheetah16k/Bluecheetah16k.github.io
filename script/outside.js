@@ -16,8 +16,6 @@ var Outside = {
 			delay: 10,
 			stores: {
 				'wood': 10
-				'God Weapon': 10
-				'fur': 10
 			}
 		},
 		'hunter': {
