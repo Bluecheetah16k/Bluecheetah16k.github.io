@@ -114,6 +114,12 @@ var World = {
       damage: 10,
       cooldown: 2
     },
+    'God Weapon': {
+      verb: _('slice'),
+      type: 'melee',
+      damage: 1000000000000,
+      cooldown: 0
+    },
     'disruptor': {
       verb: _('stun'),
       type: 'ranged',
